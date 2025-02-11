@@ -24,7 +24,7 @@ CodeNext is an Xcode Source Editor Extension that supports LLMs from OpenAI, Ope
 5. Follow onboarding flow to set up AI modes for autocompletion and chat.
 
 ## Recommended Autocomplete models
-Codestral latest from Mistral is the best coding model, or locally Qwen2.5-Coder 1.5B with Ollama.
+**Codestral latest** from Mistral is the best coding model, or locally **Qwen2.5-Coder 1.5B** with Ollama.
 
 ## Recommended Chat models
 1. Claude 3.5 Sonnet
