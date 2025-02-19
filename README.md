@@ -1,7 +1,7 @@
 # CodeNext
 ![apppreviewfinal](https://github.com/user-attachments/assets/c17c5829-c36d-44df-93e0-0ecf26d2f491)
 
-CodeNext is an Xcode Source Editor Extension that supports LLMs from OpenAI, OpenAI Compatible, Azure OpenAI, Google AI, Mistral, Anthropic, Deepseek, Ollama, Ollama Compatible, OpenRouter, Tabby, and GitHub Copilot and Codeium backends for Xcode.
+CodeNext is an Xcode Source Editor Extension that supports LLMs from OpenAI, OpenAI Compatible, Azure OpenAI, Google AI, Mistral, Anthropic, Deepseek, Ollama, Ollama Compatible, OpenRouter, Tabby, and more for Xcode.
 
 ## Features
 
