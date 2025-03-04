@@ -17,7 +17,7 @@ CodeNext is an Xcode Source Editor Extension that supports LLMs from OpenAI, Ope
 
 ## Installation and Setup
 
-1. Double CodeNextInstaller.dmg and drag CodeNext.app into the Applications folder.
+1. Double click CodeNextInstaller.dmg and drag CodeNext.app into the Applications folder.
 2. Run CodeNext.app from Applications folder to set up.
 3. As promoted, enable the source editor extension in MacOS system settings -> Privacy & Security -> Extensions -> Xcode Source Editor.
 4. Grant Accessibility API permission to the CodeNext extension app in MacOS system settings -> Privacy & Security -> Accessibility .
