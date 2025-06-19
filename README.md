@@ -35,9 +35,12 @@ CodeNext is an Xcode Source Editor Extension that supports LLMs from OpenAI, Ope
 5. Llama3.1 405B
 
 ## Credits
-We get inspired by and thus give special thanks to the following projects:
+We get inspired by and thus give special thanks to the following open source projects:
 - [codeium.vim](https://github.com/Exafunction/codeium.vim)
 - [copilot.vim](https://github.com/github/copilot.vim)
 - [CopilotForXcode](https://github.com/intitni/CopilotForXcode)
 - [LSP-copilot](https://github.com/TerminalFi/LSP-copilot)
 - [Vercel AI SDK](https://github.com/vercel/ai)
+
+CodeNext UI is designed by [Michael Pirlis](https://www.linkedin.com/in/mpirlis/). Special thanks to him.
+
